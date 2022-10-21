@@ -1,25 +1,20 @@
 {
-  "id": "EOR-resources",
-  "title": "EOR resources",
-  "description": "EOR resources",
-  "authors": [
-    {
-    "name": "Krokkin"
-    }
-    ],
+  "name": "eor-resources",
+  "title": "Empire of Ruin Resources",
+  "description": "Resources for Empire of Ruin",
+  "author" : "Krokkin",
   "version": "1.0.0",
-  "compatibility": {
-    "minimum": "9",
-    "verified": "10",
-	}
-    "packs": [
-        {
-            "name": "EOR-resources",
-            "label": "Empire of Ruin resources",
-            "path": "./packs/empire-of-ruin-resources.db",
-            "entity": "Item",
-            "type": "Item",
-            "system": "pf2e"
-        }
-    ]
-  }
+  "minimumCoreVersion": "0.8.6",
+  "compatibleCoreVersion": "10",
+  "packs": [
+    {
+        "name": "eor-resources",
+        "label": "Empire of Ruin resources",
+        "path": "./packs/empire-of-ruin-resources.db",
+        "entity": "Item",
+        "type": "Item",
+        "system": "pf2e"
+    }
+  ],
+  "url": "https://github.com/iron2k2eor-resources"
+}
