@@ -16,6 +16,7 @@
         "system": "pf2e"
     }
   ],
-  "url": "https://github.com/iron2k2/eor-resources"
-  "download": "https://github.com/iron2k2/eor-resources/archive/refs/tags/download.zip"
+	"manifest": "https://raw.githubusercontent.com/iron2k2/eor-resources/master/module.json",
+	"download": "https://raw.githubusercontent.com/iron2k2/eor-resources/master/eor-resources.zip",
+	"url": "https://github.com/iron2k2/eor-resources",
 }
