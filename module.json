@@ -1,0 +1,19 @@
+{
+    "name": "EOR-resources",
+    "title": "EOR resources",
+    "description": "EOR resource pieces",
+    "version": "1.0.0",
+    "author": "Krokkin",
+    "minimumCoreVersion": "0.8.6",
+    "compatibleCoreVersion": "10",
+    "packs": [
+        {
+            "name": "EOR-resources",
+            "label": "Empire of Ruin resources",
+            "path": "./packs/empire-of-ruin-resources.db",
+            "entity": "Item",
+            "type": "Item",
+            "system": "pf2e"
+        }
+    ]
+  }
