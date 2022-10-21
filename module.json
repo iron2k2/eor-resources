@@ -10,12 +10,12 @@
     {
         "name": "eor-resources",
         "label": "Empire of Ruin resources",
-        "path": "./packs/empire-of-ruin-resources.db",
+        "path": "packs/empire-of-ruin-resources.db",
         "entity": "Item",
         "type": "Item",
         "system": "pf2e"
     }
   ],
   "url": "https://github.com/iron2k2/eor-resources"
-  "download": "https://github.com/iron2k2/eor-resources/archive/refs/tags/final.zip"
+  "download": "https://github.com/iron2k2/eor-resources/archive/refs/tags/download.zip"
 }
