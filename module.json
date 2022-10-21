@@ -15,5 +15,6 @@
             "type": "Item",
             "system": "pf2e"
         }
-    ]
+    ],
+    "manifest": "https://github.com/iron2k2/eor-resources/module.json",
   }
